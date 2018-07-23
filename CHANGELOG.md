@@ -1,7 +1,13 @@
+## [1.0.5](https://github.com/niksy/playground/compare/v1.0.4...v1.0.5) - 2018-07-23
+
+
+
+
 ## [1.0.4](https://github.com/niksy/playground/compare/v1.0.2...v1.0.4) - 2018-07-23
 
 * 1.0.2 ([e693b9b](https://github.com/niksy/playground/commit/e693b9b))
 * 1.0.3 ([1723c8a](https://github.com/niksy/playground/commit/1723c8a))
+* Modify scripts ([f1d268e](https://github.com/niksy/playground/commit/f1d268e))
 
 
 

@@ -1,10 +1,10 @@
 {
   "name": "playground",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "version": "conventional-changelog -i CHANGELOG.md -s -r 0 -n config.js",
+    "version": "conventional-changelog -i CHANGELOG.md -s -r 0 -n config.js && git add CHANGELOG.md",
     "publish": "conventional-github-releaser -r 0 -n config.js"
   },
   "keywords": [],
