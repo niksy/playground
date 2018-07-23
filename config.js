@@ -2,6 +2,10 @@
 
 var writerOpts = {
 	transform: function(commit) {
+		if ( commit.gitTags ) {
+			console.log(commit);
+			return;
+		}
 		commit.hash = commit.hash.slice(0, 7);
 		return commit;
 	},
