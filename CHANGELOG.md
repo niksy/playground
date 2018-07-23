@@ -1,5 +1,12 @@
+## <small>1.0.11 (2018-07-23)</small>
+
+* CCC ([2856033](https://github.com/niksy/playground/commit/2856033))
+
+
+
 ## <small>1.0.10 (2018-07-23)</small>
 
+* 1.0.10 ([6b20f74](https://github.com/niksy/playground/commit/6b20f74))
 * AAAABB ([a126be3](https://github.com/niksy/playground/commit/a126be3))
 
 
