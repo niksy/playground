@@ -10,6 +10,7 @@
   "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com)",
   "license": "MIT",
   "devDependencies": {
+    "conventional-changelog": "^2.0.1",
     "conventional-github-releaser": "^3.1.2"
   }
 }
