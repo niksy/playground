@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postversion": "conventional-changelog -i CHANGELOG.md -s -r 0 -n config.js",
+    "postpublish": "conventional-github-releaser -r 0 -n config.js"
   },
   "keywords": [],
   "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com)",
