@@ -2,6 +2,7 @@
 
 var writerOpts = {
 	transform: function(commit) {
+		console.log(commit);
 		if ( /\(tag: v\)/.test(commit.gitTags) ) {
 			return;
 		}
