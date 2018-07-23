@@ -1,5 +1,6 @@
 ## [1.0.5](https://github.com/niksy/playground/compare/v1.0.4...v1.0.5) - 2018-07-23
 
+* 1.0.4 ([45f8b7e](https://github.com/niksy/playground/commit/45f8b7e))
 
 
 
