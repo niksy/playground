@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postversion": "conventional-changelog -i CHANGELOG.md -s -r 0 -n config.js && git add CHANGELOG.md && git commit --amend",
-    "postpublish": "conventional-github-releaser -r 0 -n config.js"
+    "version": "conventional-changelog -i CHANGELOG.md -s -r 0 -n config.js && git add CHANGELOG.md && git commit --amend",
+    "publish": "conventional-github-releaser -r 0 -n config.js"
   },
   "keywords": [],
   "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com)",
