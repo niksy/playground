@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/niksy/playground/compare/v1.0.1...v1.0.2) - 2018-07-23
+
+* Add files ([44af1cc](https://github.com/niksy/playground/commit/44af1cc))
+
+
+
 ## [1.0.1](https://github.com/niksy/playground/compare/af060a2...v1.0.1) - 2018-07-23
 
 * Add files ([b7d1228](https://github.com/niksy/playground/commit/b7d1228))
