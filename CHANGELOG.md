@@ -1,5 +1,11 @@
+## [1.0.8](https://github.com/niksy/playground/compare/v1.0.7...v1.0.8) - 2018-07-23
+
+
+
+
 ## [1.0.7](https://github.com/niksy/playground/compare/v1.0.6...v1.0.7) - 2018-07-23
 
+* Add foo ([f1d6c0e](https://github.com/niksy/playground/commit/f1d6c0e))
 
 
 
