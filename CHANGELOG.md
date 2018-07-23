@@ -1,5 +1,11 @@
+## [1.0.7](https://github.com/niksy/playground/compare/v1.0.6...v1.0.7) - 2018-07-23
+
+
+
+
 ## [1.0.6](https://github.com/niksy/playground/compare/v1.0.5...v1.0.6) - 2018-07-23
 
+* 1.0.5 ([8dc127a](https://github.com/niksy/playground/commit/8dc127a))
 * 1.0.5 ([a257b37](https://github.com/niksy/playground/commit/a257b37))
 
 
