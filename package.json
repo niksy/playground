@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "echo 42",
     "version": "conventional-changelog -i CHANGELOG.md -s -r 0 -n config.js && git add CHANGELOG.md",
     "publish": "conventional-github-releaser -r 0 -n config.js"
   },
