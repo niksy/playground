@@ -4,13 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo 42",
+    "test": "dog-names",
     "version": "conventional-changelog -i CHANGELOG.md -s -r 0 -n config.js && git add CHANGELOG.md",
     "publish": "conventional-github-releaser -r 0 -n config.js"
   },
   "keywords": [],
   "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com)",
   "license": "MIT",
+  "dependencies": {
+    "dog-names": "^2.0.0"
+  },
   "devDependencies": {
     "conventional-changelog": "^2.0.1",
     "conventional-github-releaser": "^3.1.2"
