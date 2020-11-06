@@ -1,6 +1,4 @@
 {
-  "name": "playground",
-  "version": "0.0.0",
   "dependencies": {
   	"playground": "0.0.0"
   }
