@@ -1,5 +1,11 @@
 {
+  "scripts": {
+    "build": "parcel index.html"
+  },
   "dependencies": {
-  	"playground": "0.0.0"
+    "playground": "0.0.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
   }
 }
