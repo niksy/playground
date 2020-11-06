@@ -1,1 +1,3 @@
-console.log('Yahooo');
+import foo from './foo';
+
+console.log(foo);
