@@ -1,16 +1,11 @@
-name: Test
-
+name: CI
 on: [push]
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     strategy:
       matrix:
-        node-version: [8.x]
-
+        node-version: [10.x, 12.x]
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js ${{ matrix.node-version }}
